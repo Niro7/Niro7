@@ -5,8 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/techgirlniro)
 
 #### Super Happy see your Beautiful face here! 😄 ![](https://visitor-badge.glitch.me/badge?page_id=Niro7.visitor-badge) 
-<img src="https://media1.giphy.com/media/dWxO36Jzd6bTSt5dIY/200w.webp?cid=ecf05e47r5bh4844uxjcqff9e7exswlkzoegdk8wpjw57zry&rid=200w.webp" width="50px" align="center" />
-### I am aspiring to become a Full Stack Developer! ♥ 
+<img align="right" alt="GIF" src="https://i.giphy.com/media/dWxO36Jzd6bTSt5dIY/200w.webp" width="50" height="50" />
+
+I am aspiring to become a Full Stack Developer! ♥
 <!--
 **Niro7/Niro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
