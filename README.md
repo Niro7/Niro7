@@ -1,4 +1,4 @@
-### Hi there 👋 I am <a href="https://niroportfolio.netlify.app/">Niroshani Kanthakumar</a>
+# Hi there 👋 I am <a href="https://niroportfolio.netlify.app/">Niroshani Kanthakumar</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niroshanikanthakumar)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/techgirlniro)
