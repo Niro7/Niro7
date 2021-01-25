@@ -1,5 +1,5 @@
 ### Hi there 👋 I am <a href="https://niroportfolio.netlify.app/">Niroshani Kanthakumar</a>
-Uper Happy see your Beautiful face here! 😄![visitors](https://visitor-badge.glitch.me/badge?page_id=Niro7.visitor-badge)
+Uper Happy see your Beautiful face here! 😄 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Niro7.visitor-badge)
 <!--
 **Niro7/Niro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
