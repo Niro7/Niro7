@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/techgirlniro)
 
 #### Super Happy see your Beautiful face here! 😄 ![](https://visitor-badge.glitch.me/badge?page_id=Niro7.visitor-badge) 
-<img style="display: block;margin: auto;alt="GIF" src="https://i.giphy.com/media/dWxO36Jzd6bTSt5dIY/200w.webp" width="100" height="100" />
+<img alt="GIF" src="https://i.giphy.com/media/dWxO36Jzd6bTSt5dIY/200w.webp" width="100" height="100" style="display: block;margin: auto;"/>
 
 I am aspiring to become a Full Stack Developer! ♥
 <!--
