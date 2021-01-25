@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am <a href="https://github.com/Niro7">Niroshani Kanthakumar</a>
 
 <!--
 **Niro7/Niro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
