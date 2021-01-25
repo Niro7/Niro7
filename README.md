@@ -8,8 +8,9 @@
 <p align="center">
 <img alt="GIF" src="https://i.giphy.com/media/dWxO36Jzd6bTSt5dIY/200w.webp" width="100" height="100" />
 </p>
-
+<p align="center">
 I am aspiring to become a Full Stack Developer! ♥
+</p>
 <!--
 **Niro7/Niro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
